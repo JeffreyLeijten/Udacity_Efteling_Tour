@@ -9,7 +9,8 @@
         android:id="@+id/attraction_image_view"
         android:layout_width="128dp"
         android:layout_height="72dp"
-        tools:background="#EEEEEE"/>
+        tools:background="#EEEEEE"
+        tools:src="@drawable/baron_1898"/>
 
     <TextView
         android:id="@+id/name_text_view"
