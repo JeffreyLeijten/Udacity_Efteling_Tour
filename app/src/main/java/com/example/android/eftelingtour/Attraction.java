@@ -6,10 +6,18 @@ package com.example.android.eftelingtour;
 
 public class Attraction {
     private String name;
+    private String area;
+    private int minimumLength;
+    private int supervisionLength;
+    private String description;
     private int imageResourceId;
 
-    public Attraction(String pName, int pImageResourceId){
+    public Attraction(String pName, String pArea, int pMinimumLength, int pSupervisionLength, String pDescription, int pImageResourceId){
         name = pName;
+        area = pArea;
+        minimumLength = pMinimumLength;
+        supervisionLength = pSupervisionLength;
+        description = pDescription;
         imageResourceId = pImageResourceId;
     }
 
@@ -19,6 +27,22 @@ public class Attraction {
 
     public int getImageResourceId() {
         return imageResourceId;
+    }
+
+    public String getArea() {
+        return area;
+    }
+
+    public int getMinimumLength() {
+        return minimumLength;
+    }
+
+    public int getSupervisionLength() {
+        return supervisionLength;
+    }
+
+    public String getDescription() {
+        return description;
     }
 
     @Override

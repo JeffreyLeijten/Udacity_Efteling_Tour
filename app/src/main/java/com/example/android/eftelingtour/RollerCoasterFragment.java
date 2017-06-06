@@ -20,8 +20,10 @@ public class RollerCoasterFragment extends android.support.v4.app.Fragment{
         View rootView = inflater.inflate(R.layout.attraction_list, container, false);
 
         final ArrayList<Attraction> attractions = new ArrayList<>(0);
-        attractions.add(new Attraction("Baron 1898", R.drawable.baron_1898));
-        attractions.add(new Attraction("Python", R.drawable.baron_1898));
+        attractions.add(new Attraction("Baron 1898", "Ruigrijk", 140, -1,
+                "Exciting dive coaster with a free fall of 37.5 meters", R.drawable.baron_1898));
+        attractions.add(new Attraction("Python", "Ruigrijk", 120, -1,
+                "Survive the twists and turns at great heights on this steel roller coaster with its double loop and corkscrew.",R.drawable.baron_1898));
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), attractions);
 
