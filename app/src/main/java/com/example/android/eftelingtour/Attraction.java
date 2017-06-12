@@ -49,6 +49,10 @@ public class Attraction {
     public String toString() {
         return "Attraction{" +
                 "name='" + name + '\'' +
+                ", area='" + area + '\'' +
+                ", minimumLength=" + minimumLength +
+                ", supervisionLength=" + supervisionLength +
+                ", description='" + description + '\'' +
                 ", imageResourceId=" + imageResourceId +
                 '}';
     }

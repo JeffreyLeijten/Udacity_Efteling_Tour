@@ -20,16 +20,28 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        return new RollerCoasterFragment();
+        switch (position){
+            case 0: return new ScenicRideFragment();
+            case 1: return new DarkRideFragment();
+            case 2: return new ExcitingRideFragment();
+            case 3: return new RollerCoasterFragment();
+            default: return new RollerCoasterFragment();
+        }
     }
 
     @Override
     public int getCount() {
-        return 1;
+        return 4;
     }
 
     @Override
     public CharSequence getPageTitle(int position) {
-        return "Coasters";
+        switch (position) {
+            case 0: return "Scenic Rides";
+            case 1: return "Dark Rides";
+            case 2: return "Exciting Rides";
+            case 3: return "Roller Coasters";
+            default: return "Coasters";
+        }
     }
 }

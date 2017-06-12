@@ -1,6 +1,25 @@
 <resources>
     <string name="app_name">Efteling Tour</string>
 
+    <string name="sprookjesbos">Sprookjesbos</string>
+    <string name="pagode">Pagode</string>
+    <string name="gondoletta">Gondoletta</string>
+    <string name="stoomtrein">Stoomtrein</string>
+    <string name="volk_van_laaf">Volk van Laaf</string>
+    <string name="oldtimerbaan">Oldtimerbaan</string>
+    
+    <string name="symbolica">Symbolica</string>
+    <string name="droomvlucht">Droomvlucht</string>
+    <string name="fata_morgana">Fata Morgana</string>
+    <string name="carnaval_festival">Carnaval Festival</string>
+    <string name="villa_volta">Villa Volta</string>
+    <string name="pandadroom">Pandadroom</string>
+
+    <string name="pirana">piraña</string>
+    <string name="halve_maen">Halve Maen</string>
+    <string name="monsieur_cannibale">Monsieur Cannibale</string>
+    <string name="polka_marina">Polka Marina</string>
+
     <string name="baron_1898">Baron 1898</string>
     <string name="joris_en_de_draak">Joris en de Draak</string>
     <string name="python">Python</string>
@@ -9,9 +28,28 @@
     <string name="bob">Bob</string>
 
     <string name="anderrijk">Anderrijk</string>
+    <string name="marerijk">Marerijk</string>
     <string name="ruigrijk">Ruigrijk</string>
     <string name="reizenrijk">Reizenrijk</string>
 
+    <string name="sprookjesbos_description">Walk between giants and trolls. Watch the fakir flying and red shoes dancing. Discover the enchanted world of the Fairytale Forest. </string>
+    <string name="pagode_description">Catch your breath while the Thai temple rotates at  a height of 45m. You can enjoy phenomenal views over the whole of Efteling and all the surrounding greenery.</string>
+    <string name="gondoletta_description">Sailing past the idyllic colourful flowerbeds you are surrounded by melodies while watching the small animals playing around the lake.</string>
+    <string name="stoomtrein_description">Travel by steam train through the different realms in Efteling. Hop on at the station in either the exciting Ruigrijk or enchanting Marerijk and relax during a magnificent tour.</string>
+    <string name="volk_van_laaf_description">Millions of years ago, a mischievous folk came to Efteling, looking for a place to settle down. Walk through Laafland and meet this small, but extraordinary folk</string>
+    <string name="oldtimerbaan_description">Drive in an old T-Ford through hills and dales crossing bridges and ponds. Everyone can ride on the D\'oude Tuffer old-timer track.</string>
+
+    <string name="symbolica_description">Let yourself be led along the secret corridors through into magical rooms and be amazed time after time. Magic Jester Pardoes will ensure that every visit is surprising and enchanting.</string>
+    <string name="droomvlucht_description">Unicorns and forest animals come to life. And when night falls, cities are floating endlessly through the darkness.</string>
+    <string name="fata_morgana_description">Spend some time on the water and discover scenes from the Far East. The boat takes you through neighbourhoods of poverty and wealth.</string>
+    <string name="carnaval_festival_description">Get to know different cultures and party among red-nosed figures. Discover how we’re all alike in this indoor attraction Carnaval Festival.</string>
+    <string name="villa_volta_description">In the eighteenth century, the Buckriders pillaged and set fires across the country. Their leader arrived at the Poster Abbey after a long journey. His greed was fulfilled with everything he saw. Nowhere else in the world he could find peace again. Not even in his own home.</string>
+    <string name="pandadroom_description">Dive from the Arctic into the deep blue ocean before ending up amongst monkeys in the jungle. The special 3D glasses let you experience the adventure like you’re right in the middle of it all.</string>
+
+    <string name="pirana_description">In a land far away a wild river takes you past waterfalls, rocks and totem poles. The momentum of the water determines your route in this paddle-less adventure.</string>
+    <string name="halve_maen_description">In a picturesque Dutch harbor, the Halve Maen is anchored: a VOC ship that sailed around the world. Only daredevils dare to go on board of the world’s largest swinging ship.</string>
+    <string name="monsieur_cannibale_description">Giant cooking pots spin on a flickering fire on the island of Monsieur Cannibale spinning cauldrons. Everyone may enter this dizzy adventure until they beg for mercy from the cannibal.</string>
+    <string name="polka_marina_description">Step into a boat and experience the dance of the sea. Float over waves along the spouting whale and hop up and down in one of the 23 ships.</string>
 
     <string name="baron_1898_description">To enter the mine, Baron 1898 plunges you down a 37.5m free fall into the mineshaft at a speed of 90 km/h.</string>
     <string name="joris_en_de_draak_description">Take one of two tracks to hunt the dragon down with water or fire. Those who succeed will be greatly honored on this double-track wooden racer rollercoaster.</string>
@@ -19,4 +57,5 @@
     <string name="de_vliegende_hollander_description">Despite bad weather, De Hollander set out to sea on Easter Sunday, although it was forbidden. Since that day, everyone on board is doomed to sail forever.</string>
     <string name="vogel_rok_description">The Vogel Rok takes you on an high speed adventure. In its talons you’ll experience a terrifying flight in the dark.</string>
     <string name="bob_description">Slam through corners and feel the wind in your face. No snow, but you still shake in the bobsleigh run.</string>
+
 </resources>
