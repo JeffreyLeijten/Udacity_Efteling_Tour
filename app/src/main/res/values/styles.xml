@@ -10,11 +10,11 @@
 
     <!-- App bar style -->
     <style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.ActionBar.Solid">
-        <!-- Remove the shadow below the app bar -->
         <item name="android:background">@color/primary_dark_color</item>
         <item name="titleTextStyle">@style/MyActionBarTitleText</item>
     </style>
 
+    <!-- App bar text style -->
     <style name="MyActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">#FFD700</item>
     </style>
